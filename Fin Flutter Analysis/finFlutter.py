@@ -12,13 +12,13 @@ import pandas as pd
 
 # Shear modulus of fin material (in Pa)
 # Reference: https://www.matweb.com/search/datasheet.aspx?matguid=39e40851fc164b6c9bda29d798bf3726&ckck=1
-G = 4 * 10**9
+G = 5 * 10**9
 
 # Geometric dimensions of the fin (thickness, root&tip chord, semi span) (in m)
 t = 5 * 10**-3
-cr = 300 * 10**-3
+cr = 400 * 10**-3
 ct = 80 * 10**-3
-b = 120 * 10**-3
+b = 145 * 10**-3
 
 # Import expected speed of the rocket UP TO APOGEE
 data = pd.read_csv('Altitude_vs_velocity_rev3.csv')
