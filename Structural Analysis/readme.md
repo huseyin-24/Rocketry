@@ -9,5 +9,7 @@ Since eyebolts, parachute assembly, payload, servomotor and hardware are exclude
 - Solution Method and Options: Nonlinearities, inertial relief, weak springs and large deflections are activated while other details of the solver are held at their default options.
 - Results and Discussion: As one can see in Figure 1., maximum von-Mises equivalent stress turns out to be 10.4 MPa throughout the whole assembly. Considering the yield limits of materials used in the rocket are in 3 orders of magnitude, these stress values are significantly below critical values. 
 
- 
-Figure 1. Equivalent von-Mises Stress Response of the Rocket
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64e3a5e9-e902-4357-be5f-c7f99b17f52c" width="402" /></p>
+<p align="center">Figure 1. Equivalent von-Mises Stress Response of the Rocket</p>
+
