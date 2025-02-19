@@ -10,7 +10,7 @@ Flight is simulated assuming angle of attack (angle represented as alpha in the 
 After calculating all simulation variables, the animation is generated using the animation classes of matplotlib: 
 
 
-https://github.com/user-attachments/assets/aafbbd30-2a33-4798-a5fc-bb4f500e10d6
+https://github.com/user-attachments/assets/047c5e69-ac5e-45d0-be34-f5981eb35ea9
 
 
 Other simulation results are as follow: 
