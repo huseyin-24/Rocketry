@@ -13,7 +13,7 @@ After calculating all simulation variables, the animation is generated using the
 https://github.com/user-attachments/assets/047c5e69-ac5e-45d0-be34-f5981eb35ea9
 
 
-Other simulation results are as follow: 
+Other simulation results are as follows: 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/7b9d64a1-a3ea-432d-965c-25eb44f36bd7" /></p>
 
