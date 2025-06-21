@@ -44,6 +44,6 @@ Finally, it is expected to have a flutter speed of 530 m/s and 442 m/s for numer
 
 - [1] https://apogeerockets.com/education/downloads/Newsletter291.pdf
 - [2] https://www.grc.nasa.gov/WWW/K-12/airplane/atmosmet.html
-- [4] Mondal, Subhajit & Chakraborty, Sushanta. (2018). Estimation of Viscous Damping Parameters of Fibre Reinforced Plastic Plates using Finite Element Model Updating. The International Journal of Acoustics and Vibration. 23. 10.20855/ijav.2018.23.11064.
-- [5] Rostami, A.B., Mobasheramini, M. & Fernandes, A.C. Strouhal number of flat and flapped plates at moderate Reynolds number and different angles of attack: experimental data. Acta Mech 230, 333–349 (2019). https://doi.org/10.1007/s00707-018-2292-2 
+- [3] Mondal, Subhajit & Chakraborty, Sushanta. (2018). Estimation of Viscous Damping Parameters of Fibre Reinforced Plastic Plates using Finite Element Model Updating. The International Journal of Acoustics and Vibration. 23. 10.20855/ijav.2018.23.11064.
+- [4] Rostami, A.B., Mobasheramini, M. & Fernandes, A.C. Strouhal number of flat and flapped plates at moderate Reynolds number and different angles of attack: experimental data. Acta Mech 230, 333–349 (2019). https://doi.org/10.1007/s00707-018-2292-2 
 
