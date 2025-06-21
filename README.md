@@ -6,7 +6,10 @@ This repo includes documents produced in rocketry related activities within the 
 
 ## Here is the rocket during lift off: 
 
-![](/liftoff.mp4)
+
+https://github.com/user-attachments/assets/fd3bbb17-48ab-4c62-bff6-a11f221da853
+
+
 
 
 
