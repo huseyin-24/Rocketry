@@ -5,7 +5,9 @@ This repo includes documents produced in rocketry related activities within the 
 <p align="center">The team and rocket</p>
 
 ## Here is the rocket during lift off: 
-https://github.com/user-attachments/assets/61fc5e94-d738-4a44-80c4-0f3d1175941e
+
+https://github.com/user-attachments/assets/19b7e2cc-c296-4b02-ad46-f8ec7b8d12c9
+
 
 
 
