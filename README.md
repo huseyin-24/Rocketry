@@ -6,7 +6,8 @@ This repo includes documents produced in rocketry related activities within the 
 
 ## Here is the rocket during lift off: 
 
-![](/liftoff.mp4)
+[▶️ Click here to watch the demo video](https://github.com/huseyin-24/Rocketry/blob/main/liftoff.mp4)
+
 
 
 
