@@ -9,8 +9,8 @@ This repo includes documents produced in rocketry related activities within the 
 
 https://github.com/user-attachments/assets/fd3bbb17-48ab-4c62-bff6-a11f221da853
 
-
-
+<p align="center"><img width="700" src="https://github.com/user-attachments/assets/3975c0eb-cfca-46db-959d-38a9b1744165" />
+<p align="center">The rocket during lift off</p>
 
 
 
